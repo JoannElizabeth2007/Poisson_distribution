@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+
+## NAME: JOANN ELIZABETH SAMUEL 
+## REG NO : 212224040139 
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
